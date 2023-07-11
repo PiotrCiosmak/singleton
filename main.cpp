@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/database/Database.hpp"
+#include "include/Database.hpp"
 
 int main()
 {

@@ -3,4 +3,4 @@ project(singleton)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(singleton main.cpp src/database/Database.cpp)
+add_executable(singleton main.cpp include/Database.hpp src/Database.cpp)
